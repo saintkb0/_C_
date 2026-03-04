@@ -1,3 +1,3 @@
 # NURS_C_PROGRAMMING
-q = input()
+q = input()  
 print
